@@ -1,0 +1,6 @@
+{
+  "name": "I WILL HELP YOU",
+  "description": "SAHAYAK AI - Your Voice. Your Language. Your Government Services. Multilingual voice-first assistant for Indian Government Services.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
